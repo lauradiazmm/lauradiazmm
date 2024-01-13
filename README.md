@@ -8,4 +8,12 @@
 
 If you have any suggestion, you can reach me on my 📥 [LinkedIn](https://www.linkedin.com/in/laura-d-95559187/) profile.
 
+#### Extra Information
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauradiazmm&show_icons=true&theme=radical)
+
+
+
+
+
 
